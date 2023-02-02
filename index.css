@@ -1,0 +1,105 @@
+.login{
+    background-color:rgba(206, 164, 108, 0.904);
+    border: none;
+    width: 400px;
+    height: 91vh;
+    border-radius: 10px;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    
+}
+.login h1{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login hr{
+    width: 70%;
+   border-color:  rgb(194, 192, 192);
+}
+.input1{
+    width: 270px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+}
+.label1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.select{
+    width: 100px;
+    height: 30px;
+    margin-left: 5px;
+
+}
+.mini{
+    
+    border: none;
+    height: 50px;
+    
+}
+.mini div{
+    height: 50px;
+    width: 120px;
+    margin: 10px 5px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.mini div label{
+    margin-left: 30px;
+}
+.mini div label2{
+    margin-left: 2px;
+}
+.child1{
+    border: 1px solid black;
+    width: 100px;
+    height: 40px;
+    float: left;
+    
+}
+.child2{
+    border: 1px solid black;
+    width: 100px;
+    height: 40px;
+    float: left;
+    
+}
+.child3{
+    border: 1px solid black;
+    width: 100px;
+    height: 40px;
+    float: left;
+}
+button{
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    color: black;
+    border: none;
+}
+button:hover{
+    background-color: rgb(197, 117, 12) ;
+    transition: 4vh;
+}
+
+body{
+    background-image:url(./images/1947002.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
